@@ -3172,6 +3172,10 @@ textarea.form-control {
     height: 100%;
 }
 
+.background-image img{
+    display: inline;
+}
+
 .background-image.original-size {
     background-size: inherit;
 }
